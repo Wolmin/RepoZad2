@@ -1,4 +1,4 @@
-# Zad3
+# Zad2
 
 Poprawiona gra saper oraz prezentacja znajomosci gita/githuba
 
